@@ -1,0 +1,1 @@
+java -d64 -Dfile.encoding=UTF-8 -javaagent:authlib-injector-1.2.3.jar=https://littleskin.cn/api/yggdrasil -Xmx1536M -Xms512M -XX:+UseG1GC -XX:+AggressiveOpts -XX:+UseCompressedOops -jar "./paper-1.12.2-1620.jar"

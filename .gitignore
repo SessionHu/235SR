@@ -1,0 +1,22 @@
+# Empty file
+whitelist.json
+banned-ips.json
+
+# Log file
+*.log
+logs/
+cache/
+
+# User privacy files
+banned-players.json
+usernamecache.json
+usercache.json
+
+# Server config files
+commands.yml
+help.yml
+permissions.yml
+version_history.json
+
+# VSCode
+.vscode/
